@@ -1,0 +1,5 @@
+- id: check-files
+  name: check-files
+  description: Check the incoming files to do something
+  entry: check-files
+  language: python
